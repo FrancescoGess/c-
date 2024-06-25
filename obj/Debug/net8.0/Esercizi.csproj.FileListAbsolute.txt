@@ -1,0 +1,14 @@
+C:\Users\Allievo\Desktop\Esercizi\bin\Debug\net8.0\Esercizi.exe
+C:\Users\Allievo\Desktop\Esercizi\bin\Debug\net8.0\Esercizi.deps.json
+C:\Users\Allievo\Desktop\Esercizi\bin\Debug\net8.0\Esercizi.runtimeconfig.json
+C:\Users\Allievo\Desktop\Esercizi\bin\Debug\net8.0\Esercizi.dll
+C:\Users\Allievo\Desktop\Esercizi\bin\Debug\net8.0\Esercizi.pdb
+C:\Users\Allievo\Desktop\Esercizi\obj\Debug\net8.0\Esercizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allievo\Desktop\Esercizi\obj\Debug\net8.0\Esercizi.AssemblyInfoInputs.cache
+C:\Users\Allievo\Desktop\Esercizi\obj\Debug\net8.0\Esercizi.AssemblyInfo.cs
+C:\Users\Allievo\Desktop\Esercizi\obj\Debug\net8.0\Esercizi.csproj.CoreCompileInputs.cache
+C:\Users\Allievo\Desktop\Esercizi\obj\Debug\net8.0\Esercizi.dll
+C:\Users\Allievo\Desktop\Esercizi\obj\Debug\net8.0\refint\Esercizi.dll
+C:\Users\Allievo\Desktop\Esercizi\obj\Debug\net8.0\Esercizi.pdb
+C:\Users\Allievo\Desktop\Esercizi\obj\Debug\net8.0\Esercizi.genruntimeconfig.cache
+C:\Users\Allievo\Desktop\Esercizi\obj\Debug\net8.0\ref\Esercizi.dll
