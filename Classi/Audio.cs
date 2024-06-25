@@ -15,13 +15,17 @@ namespace Esercizi.Classi
             get { return volume; }
             set
             {
-                if (value < 0)
+                if (volume < 0)
                 {
                     volume = 0;
                 }
-                else if ( volume > 100 )
+                else if (volume > 100)
                 {
                     volume = 100;
+                }
+                else
+                {
+                    volume = value;
                 }
             }
         }
@@ -33,8 +37,9 @@ namespace Esercizi.Classi
 
         public void Play()
         {
-            for(int i = 0; i < Durata; i++){
-                Console.WriteLine
+            for (int i = 0; i < Durata; i++)
+            {
+                Console.WriteLine("ciao");
             }
         }
     }
