@@ -7,7 +7,6 @@ namespace CampoTennis
 {
     public class Campo
     {
-        private list<prenotazione> prenotazioni;
         
 
     }
