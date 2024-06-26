@@ -1,0 +1,15 @@
+C:\Users\Allievo\Desktop\Esercizi\TipiGenerici\bin\Debug\net8.0\TipiGenerici.exe
+C:\Users\Allievo\Desktop\Esercizi\TipiGenerici\bin\Debug\net8.0\TipiGenerici.deps.json
+C:\Users\Allievo\Desktop\Esercizi\TipiGenerici\bin\Debug\net8.0\TipiGenerici.runtimeconfig.json
+C:\Users\Allievo\Desktop\Esercizi\TipiGenerici\bin\Debug\net8.0\TipiGenerici.dll
+C:\Users\Allievo\Desktop\Esercizi\TipiGenerici\bin\Debug\net8.0\TipiGenerici.pdb
+C:\Users\Allievo\Desktop\Esercizi\TipiGenerici\obj\Debug\net8.0\TipiGenerici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allievo\Desktop\Esercizi\TipiGenerici\obj\Debug\net8.0\TipiGenerici.AssemblyInfoInputs.cache
+C:\Users\Allievo\Desktop\Esercizi\TipiGenerici\obj\Debug\net8.0\TipiGenerici.AssemblyInfo.cs
+C:\Users\Allievo\Desktop\Esercizi\TipiGenerici\obj\Debug\net8.0\TipiGenerici.csproj.CoreCompileInputs.cache
+C:\Users\Allievo\Desktop\Esercizi\TipiGenerici\obj\Debug\net8.0\TipiGenerici.sourcelink.json
+C:\Users\Allievo\Desktop\Esercizi\TipiGenerici\obj\Debug\net8.0\TipiGenerici.dll
+C:\Users\Allievo\Desktop\Esercizi\TipiGenerici\obj\Debug\net8.0\refint\TipiGenerici.dll
+C:\Users\Allievo\Desktop\Esercizi\TipiGenerici\obj\Debug\net8.0\TipiGenerici.pdb
+C:\Users\Allievo\Desktop\Esercizi\TipiGenerici\obj\Debug\net8.0\TipiGenerici.genruntimeconfig.cache
+C:\Users\Allievo\Desktop\Esercizi\TipiGenerici\obj\Debug\net8.0\ref\TipiGenerici.dll
