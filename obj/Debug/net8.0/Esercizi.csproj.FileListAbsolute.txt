@@ -12,3 +12,4 @@ C:\Users\Allievo\Desktop\Esercizi\obj\Debug\net8.0\refint\Esercizi.dll
 C:\Users\Allievo\Desktop\Esercizi\obj\Debug\net8.0\Esercizi.pdb
 C:\Users\Allievo\Desktop\Esercizi\obj\Debug\net8.0\Esercizi.genruntimeconfig.cache
 C:\Users\Allievo\Desktop\Esercizi\obj\Debug\net8.0\ref\Esercizi.dll
+C:\Users\Allievo\Desktop\Esercizi\obj\Debug\net8.0\Esercizi.sourcelink.json
