@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TipiGenerici")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1091d15597b1f98cecc54dfd8758b6ccb4e67982")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+920c17845bb13896682c4518f33f4e822a074674")]
 [assembly: System.Reflection.AssemblyProductAttribute("TipiGenerici")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TipiGenerici")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

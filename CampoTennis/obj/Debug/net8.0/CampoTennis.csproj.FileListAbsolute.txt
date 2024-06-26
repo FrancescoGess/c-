@@ -1,0 +1,15 @@
+C:\Users\Allievo\Desktop\Esercizi\CampoTennis\bin\Debug\net8.0\CampoTennis.exe
+C:\Users\Allievo\Desktop\Esercizi\CampoTennis\bin\Debug\net8.0\CampoTennis.deps.json
+C:\Users\Allievo\Desktop\Esercizi\CampoTennis\bin\Debug\net8.0\CampoTennis.runtimeconfig.json
+C:\Users\Allievo\Desktop\Esercizi\CampoTennis\bin\Debug\net8.0\CampoTennis.dll
+C:\Users\Allievo\Desktop\Esercizi\CampoTennis\bin\Debug\net8.0\CampoTennis.pdb
+C:\Users\Allievo\Desktop\Esercizi\CampoTennis\obj\Debug\net8.0\CampoTennis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allievo\Desktop\Esercizi\CampoTennis\obj\Debug\net8.0\CampoTennis.AssemblyInfoInputs.cache
+C:\Users\Allievo\Desktop\Esercizi\CampoTennis\obj\Debug\net8.0\CampoTennis.AssemblyInfo.cs
+C:\Users\Allievo\Desktop\Esercizi\CampoTennis\obj\Debug\net8.0\CampoTennis.csproj.CoreCompileInputs.cache
+C:\Users\Allievo\Desktop\Esercizi\CampoTennis\obj\Debug\net8.0\CampoTennis.sourcelink.json
+C:\Users\Allievo\Desktop\Esercizi\CampoTennis\obj\Debug\net8.0\CampoTennis.dll
+C:\Users\Allievo\Desktop\Esercizi\CampoTennis\obj\Debug\net8.0\refint\CampoTennis.dll
+C:\Users\Allievo\Desktop\Esercizi\CampoTennis\obj\Debug\net8.0\CampoTennis.pdb
+C:\Users\Allievo\Desktop\Esercizi\CampoTennis\obj\Debug\net8.0\CampoTennis.genruntimeconfig.cache
+C:\Users\Allievo\Desktop\Esercizi\CampoTennis\obj\Debug\net8.0\ref\CampoTennis.dll
